@@ -22,7 +22,6 @@ I'm a recent **B.Tech Computer Science graduate** passionate about **Cloud Compu
 - ☁️ **Currently working on**: Building hands-on DevOps projects to master CI/CD pipelines, containerization, and cloud platforms
 - 💡 **Looking for**: Entry-level Cloud Engineer / DevOps Engineer roles where I can contribute and grow
 - 📧 **Email**: venkatavamsiv2003@gmail.com
-- 🌐 **Portfolio**: [On Process....]
 
 ---
 
