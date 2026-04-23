@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Cloud & DevOps fresher from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00C7F7&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Enthusiast;B.Tech+CSE+Graduate+%272025;Learning+AWS+%7C+Kubernetes+%7C+IaC;Open+to+Cloud+%26+DevOps+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00C7F7&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Enthusiast;B.Tech+CSE+Graduate+%272025';Learning+AWS+%7C+Kubernetes+%7C+IaC;Open+to+Cloud+%26+DevOps+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
